@@ -231,6 +231,16 @@
       "status": "中央大学\n経済学部1年",
       "image": "ishizuka-tomoko.jpg",
       "link": "ishizuka-tomoko/"
+    },
+    "sato-kazune": {
+      "id": "sato-kazune",
+      "index": 21,
+      "name": "佐藤 和音",
+      "nameSub": "Sato Kazune",
+      "position": "",
+      "status": "",
+      "image": "sato-kazune.jpg",
+      "link": "sato-kazune/"
     }
   },
   "関西支部": {
