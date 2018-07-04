@@ -1,6 +1,6 @@
 ---
 id:
-  'morimoto-toshiaki'
+  'morimyama-naoto'
 name:
   森山 直人
 nameSub:
